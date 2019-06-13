@@ -1,3 +1,4 @@
+# Import data from excel file with gem "roo" and export data to pdf, excel file
 ## Giới thiệu vấn đề
 - Đối với các hệ thống web lớn, lưu trữ nhiều loại dữ liệu thì việc import một tập tin với lượng dữ liệu lớn lên hệ thống là một nhu cầu tất yếu. Thường các tập tin cần import thường ở định dạng csv, office (word, excel, ...). Trong Rails, để xử lý vấn đề import dữ liệu nó đã cung cấp sẵn công cụ import dữ liệu từ file csv mà lập trình viên có thể dễ dàng sử dụng
 - Ngoài ra, ở các hệ thống có nhu cầu quản lý, tổng kết và trích xuất dữ liệu thì hệ thống cần cung cấp tính năng export dữ liệu ra các định dạng phổ biến
