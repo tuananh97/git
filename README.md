@@ -96,7 +96,7 @@ Tạo nút bấm để thực hiện export dữ liệu ra tập tin pdf
   <i class="fa fa-paperclip" aria-hidden="true"></i> PDF Attachment
 <% end %>
 ```
-Phương thức export ra pdf file với các tùy chọn mà `gem "wicked_pdf"` cung cấp
+Phương thức export ra pdf file với các tùy chọn mà `gem "wkhtmltopdf-binary"` cung cấp
 ```ruby
 def export
   @users = User.order created_at: :desc # Xác định nội dung file
