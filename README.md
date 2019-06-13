@@ -176,7 +176,7 @@ end
 ![](https://images.viblo.asia/9e8d6aae-1815-4254-81a4-b09996a98acd.gif)
 
 ## Bài viết có tham khảo một số bài sau
-https://viblo.asia/p/importing-records-from-csv-and-excel-in-rails-5-ByEZk0QqlQ0
-https://github.com/roo-rb/roo
-https://github.com/mileszs/wicked_pdf
+https://viblo.asia/p/importing-records-from-csv-and-excel-in-rails-5-ByEZk0QqlQ0 <br>
+https://github.com/roo-rb/roo <br>
+https://github.com/mileszs/wicked_pdf <br>
 https://github.com/randym/axlsx
